@@ -1,0 +1,14 @@
+Couldn't open D:\r\godot\3.0/godot.windows.opt.tools.64.pck
+Couldn't open godot.windows.opt.tools.64.pck
+Couldn't load/find D:/r/godot/3.0/project.godot or project.binary
+Couldn't load/find D:/r/godot/project.godot or project.binary
+Couldn't load/find D:/r/project.godot or project.binary
+Couldn't load/find D://project.godot or project.binary
+OpenGL ES 3.0 Renderer: GeForce GT 540M/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+WARNING: not found: gdnative/singletons
+Registered interface Native mobile
+SVG_GENERATION TIME: 0.312
+OPENING: D:/r/godot/3.0/slow (D:::r::godot::3.0::slow)
+running cmdline: "D:\r\godot\3.0\godot.windows.opt.tools.64.exe" "--path" "D:/r/godot/3.0/slow" "--editor"

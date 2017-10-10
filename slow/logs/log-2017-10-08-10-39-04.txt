@@ -1,0 +1,20 @@
+Couldn't open /home/kakoeimon/projects/godot/godot.x11.opt.tools.pck
+Couldn't open godot.x11.opt.tools.pck
+Couldn't load/find /home/kakoeimon/projects/godot/project.godot or project.binary
+Couldn't load/find /home/kakoeimon/projects/project.godot or project.binary
+Couldn't load/find /home/kakoeimon/project.godot or project.binary
+Couldn't load/find /home/project.godot or project.binary
+Couldn't load/find //project.godot or project.binary
+OpenGL ES 3.0 Renderer: GeForce GT 540M/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+**ERROR**: Class EditorSettings already has a method set_favorite_dirs
+   At: core/class_db.cpp:1182:bind_methodfi() - Method/Function Failed, returning: __null
+WARNING: not found: gdnative/singletons
+Registered interface Native mobile
+SVG_GENERATION TIME: 0.147353
+**ERROR**: Index p_which out of size (popup->get_item_count()).
+   At: scene/gui/option_button.cpp:195:_select() - Index p_which out of size (popup->get_item_count()).
+**ERROR**: Index p_which out of size (popup->get_item_count()).
+   At: scene/gui/option_button.cpp:195:_select() - Index p_which out of size (popup->get_item_count()).
+OPENING: /home/kakoeimon/projects/godot/projects/slow (::home::kakoeimon::projects::godot::projects::slow)

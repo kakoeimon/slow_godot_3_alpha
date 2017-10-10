@@ -1,0 +1,18 @@
+Couldn't open /tmp/.mount_Godot-9Ouube/usr/bin/godot.pck
+Couldn't open godot.pck
+Couldn't load/find /tmp/.mount_Godot-9Ouube/usr/bin/project.godot or project.binary
+Couldn't load/find /tmp/.mount_Godot-9Ouube/usr/project.godot or project.binary
+Couldn't load/find /tmp/.mount_Godot-9Ouube/project.godot or project.binary
+Couldn't load/find /tmp/project.godot or project.binary
+Couldn't load/find //project.godot or project.binary
+OpenGL ES 3.0 Renderer: GeForce GT 540M/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+WARNING: not found: gdnative/singletons
+Registered interface Native mobile
+SVG_GENERATION TIME: 0.158909
+**ERROR**: Index p_which out of size (popup->get_item_count()).
+   At: scene/gui/option_button.cpp:195:_select() - Index p_which out of size (popup->get_item_count()).
+**ERROR**: Index p_which out of size (popup->get_item_count()).
+   At: scene/gui/option_button.cpp:195:_select() - Index p_which out of size (popup->get_item_count()).
+OPENING: /home/kakoeimon/projects/godot/projects/test3 (::home::kakoeimon::projects::godot::projects::test3)

@@ -1,0 +1,13 @@
+Couldn't open /tmp/.mount_Godot-RlnljC/usr/bin/godot.pck
+Couldn't open godot.pck
+OpenGL ES 3.0 Renderer: GeForce GT 540M/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+Registered interface Native mobile
+load external res: res://Material.material
+**ERROR**: Condition ' _first != __null ' is true.
+   At: core/self_list.h:99:~List() - Condition ' _first != __null ' is true.
+**ERROR**: Condition ' !id_map.has(p_rid.get_data()) ' is true. returned: __null
+   At: core/rid.h:164:getornull() - Condition ' !id_map.has(p_rid.get_data()) ' is true. returned: __null
+**ERROR**: Condition ' !inst ' is true.
+   At: drivers/gles3/rasterizer_storage_gles3.cpp:5825:instance_remove_dependency() - Condition ' !inst ' is true.
